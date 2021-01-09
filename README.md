@@ -8,10 +8,11 @@
 
 - [Fediverse](https://en.m.wikipedia.org/wiki/Fediverse) and [Matrix](https://matrix.org)
 
-Use 
+## Use 
 - GNU/Linux OSs
 - Nano text editor
 - BeautifulSoup
+
 
 ## Interests include
 
