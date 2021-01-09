@@ -1,14 +1,15 @@
 ### Grüß dich 🍕
 
 
-![Allen's Githuh Stats](https://github-readme-stats.vercel.app/api?username=allendema&show_icons=true&theme=dark)
+![Allen's Github Stats](https://github-readme-stats.vercel.app/api?username=allendema&show_icons=true&theme=dark)
 
 - I do like Python 
 [<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" title="PYTHON"></code>](https://python.org)
 
 - [Fediverse](https://en.m.wikipedia.org/wiki/Fediverse) and [Matrix](https://matrix.org)
 
-## Use 
+## Use
+
 - GNU/Linux OSs
 - Nano text editor
 - BeautifulSoup
