@@ -13,7 +13,8 @@
 - GNU/Linux OSs
 - Nano text editor
 - BeautifulSoup
-
+- Geany
+- ADB - Android Debuging Bridge
 
 ## Interests include
 
