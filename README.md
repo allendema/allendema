@@ -1,4 +1,4 @@
-### Grüß dich 🍕
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2335BCF7&size=23&lines=Gr%C3%BC%C3%9F+dich!+🍕)](https://git.io/typing-svg)
 
 
 ![Allen's Github Stats](https://github-readme-stats.vercel.app/api?username=allendema&show_icons=true&theme=dark)
@@ -14,7 +14,7 @@
 - Nano text editor
 - BeautifulSoup
 - Geany
-- ADB - Android Debuging Bridge
+- Requests
 
 ## Interests include
 
