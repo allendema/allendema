@@ -13,16 +13,18 @@
 - GNU/Linux OSs
 - Nano text editor
 - BeautifulSoup
-- Geany
 - Requests
+- yt-dlp
 
 ## Interests include
 
 - Sports
 - Online Security and Privacy
-- Frontends
 - Open-Source
+- Alternative Frontends
 - Chess
 
-## Fun Fact
-Sometimes I go into fun adventures and watch "CONAN" sketches for hours long.
+## Fun Facts
+- I rewatch "Nathan for You" episodes and chuckle for hours.
+- I enjoy wordplay.
+
