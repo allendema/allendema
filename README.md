@@ -1,10 +1,8 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2335BCF7&size=23&lines=Gr%C3%BC%C3%9F+dich!+🍕)](https://git.io/typing-svg)
 
 
-[![Allen's Github Stats](https://github-readme-stats.vercel.app/api?username=allendema&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#all-demos)
-
-- I do like Python 
-[<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" title="PYTHON"></code>](https://python.org) and Fediverse.
+- I enjoy writing Python 
+[<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" title="Python (programming language)"></code>](https://python.org).
 
 ## Use
 
@@ -12,7 +10,7 @@
 - Selfhosted software
 - Nano text editor
 - KDE Kate editor
-- BeautifulSoup
+- BeautifulSoup/lxml
 - Requests/httpx
 - gallery-dl
 - yt-dlp
